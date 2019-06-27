@@ -82,4 +82,19 @@ abstract class Product {
 				
 	}//closing the buy products method		
 
+	public void checkStoque(String productId) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void productDetails(String productId) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public double taxReturn(String productId, int quantity) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }//Closing class Product
