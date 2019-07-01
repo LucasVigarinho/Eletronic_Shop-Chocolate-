@@ -31,13 +31,13 @@ public class TVSets extends EletronicDevice {
 		int dif = 0;
 		//creating the display to print out the product details of the tv sets class
 		System.out.println(" ");
-		System.out.println(" ================================================================================================================" );
-		System.out.println(" Type                   ProductId                Product Name                   Price                Display Size " );
-		System.out.println(" ================================================================================================================" );
+		System.out.println("  =================================================================================== " );
+		System.out.println(" Type\t\t\tProductId\t\t\tProduct Name\t\t\tPrice\t\t\tDisplay Size " );
+		System.out.println("  =================================================================================== " );
 		System.out.println(" ");
 		
 		System.out.println();
-		System.out.println(" ================================================================================================================" );
+		System.out.println("  =================================================================================== " );
 		System.out.println();
 		System.out.println(" ");
 

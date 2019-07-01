@@ -25,15 +25,15 @@ public class EletronicDevice extends Product {
 
 		//print out the display default of the super class eletronic device
 		System.out.println(" ");
-		System.out.println(" ================================================================================================================" );
-		System.out.println(" Type                         ProductId                     Product Name                      Price                   		 " );
-		System.out.println(" ================================================================================================================" );
+		System.out.println("  =================================================================================== " );
+		System.out.println(" Type\t\t\tProductId\t\t\tProduct Name\t\t\tPrice                   		 " );
+		System.out.println("  =================================================================================== " );
 		System.out.println(" ");
 		
 		
 		
 		System.out.println();
-		System.out.println(" ================================================================================================================" );
+		System.out.println("  =================================================================================== " );
 		System.out.println();
 		System.out.println(" ");
 
@@ -45,16 +45,13 @@ public class EletronicDevice extends Product {
 	public double taxReturn(String productId, int quantity) {
 		return quantity;
 		//Creating the local variable
-		
-
+	
 	}
-
 
 	public String getMaterial() {
 		// TODO Auto-generated method stub
 		return null;
 	}
-
 
 	public double getDisplaySize() {
 		// TODO Auto-generated method stub
