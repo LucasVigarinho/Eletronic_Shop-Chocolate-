@@ -1,10 +1,5 @@
 package Chocolate_Products;
 
-/**
- * @author Lucas_Vigarinho_HDC_OOD_2989295_Week_6_FILE_HANDLING
- *
- */
-package week_6_file_handling;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

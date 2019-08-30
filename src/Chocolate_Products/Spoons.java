@@ -1,7 +1,6 @@
 package Chocolate_Products;
 
 
-import week_6_file_handling.Kitchenware;
 
 /** creating the spoons class extends the attributes from the super class Kitchenware */
 @SuppressWarnings("serial")
