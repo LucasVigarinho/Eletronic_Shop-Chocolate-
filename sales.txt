@@ -1,0 +1,1 @@
+Fri Aug 30 17:39:34 IST 2019 | Venda realizada com sucesso  |Product Id: tv 1 | Product Name: Sansung TV | Quantity: 10 | Unit price: 300.1 | Total price: 3481.16 | Tax rate: 480.16
