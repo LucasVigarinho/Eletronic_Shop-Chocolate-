@@ -1,0 +1,33 @@
+Chair -> String productId, String name, Double price, int quantity
+chair; productId;  name;  price; quantity
+
+Tables -> String productId, String name, Double price, int quantity
+table; productId; name; price; quantity
+
+Dressers -> String productId, String name, Double price, int quantity, int width, int depth, int height 
+dresser; productId; name; price; quantity; width; depth; height
+
+Spoons -> String productId, String name, double price, int quantity, String material
+spoon; productId; name; price; quantity; material
+
+Forks -> String productId, String name, double price, int quantity, String material
+fork; productId; name; price; quantity; material
+
+Knives -> String productId, String name, double price, int quantity, String material
+knife; productId; name; price; quantity; material
+
+Plates -> String productId, String name, double price, int quantity, String material
+plate; productId; name; price; quantity; material
+
+Keyboards -> String productId, String name, double price, int quantity
+keyboard; productId; name; price; quantity
+
+MobilePhones -> String productId, String name, double price, int quantity
+mobilephone; productId; name; price; quantity
+
+MP3Players -> String productId, String name, double price, int quantity, int memorySize
+mp3player; productId; name; price; quantity; memorySize
+
+TVSets -> String productId, String name, double price, int quantity, double displaySize
+tvset; productId; name; price; quantity; displaySize
+

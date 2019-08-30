@@ -1,0 +1,33 @@
+chair; chair 1; Amazing Chair; 30.00; 10
+chair; chair 2; Surreal Chair; 45.50; 20
+chair; chair 3; Transparent Chair; 70.90; 30
+table; table 1; Amazing Table; 80.10; 20
+table; table 2; Surreal Table; 100.99; 15
+table; table 3; Transparent Table; 150.70; 30
+dresser; dresser 1; Amazing Dresser; 350.00; 10; 3; 2; 4
+dresser; dresser 2; Surreal Dresser; 700.00; 10; 3; 2; 6
+dresser; dresser 3; Transparent Dresser; 1000.00; 10; 3; 3; 6
+spoon; spoon 1; Amazing Spoon; 5.18; 10; Metal
+spoon; spoon 2; Surreal Spoon; 12.30; 10; Plastic
+spoon; spoon 3; Transparent Spoon; 18.60; 10; Silver
+fork; fork 1; Amazing Fork; 6.50; 10; Metal
+fork; fork 2; Surreal Fork; 8.80; 10; Plastic
+fork; fork 3; Transparent Fork; 10.70; 10; Silver
+knife; knife 1; Amazing Knive; 4.20; 10; Metal
+knife; knife 2; Surreal Knive; 6.30; 10; Plastic
+knife; knife 3; Transparent Knives; 8.10; 10; Silver
+plate; plate 1; Amazing Plate; 12.10; 10; porcelana
+plate; plate 2; Surreal Plate; 15.10; 10; porcelana
+plate; plate 3; Transparent Plate; 20.10; 10; glass
+keyboard; keyboard 1; Amazing Keyboard; 29.99; 10
+keyboard; keyboard 2; Surreal Keyboard; 49.99; 10
+keyboard; keyboard 3; Transparent Keyboard; 99.99; 10
+mobilephone; mobile phone 1; Nokia x; 400.10; 10
+mobilephone; mobile phone 2; Sansung x; 600.10; 10
+mobilephone; mobile phone 3; Apple x; 800.10; 10
+mp3player; mp3 player 1; Amazing MP3 Player; 10.10; 10; 16
+mp3player; mp3 player 2; Surreal MP3 Player; 50.10; 10; 32
+mp3player; mp3 player 3; Transparent MP3 Player; 100.10; 10; 64
+tvset; tv 1; Sansung TV; 300.10; 25; 42.2
+tvset; tv 2; Chingwang TV; 500.10; 15; 42.2
+tvset; tv 3; SansoSony TV; 800.10; 15; 42.2
