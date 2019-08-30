@@ -1,10 +1,12 @@
 package Chocolate_Products;
 
 
-/** Creating the public class table extending from super class Furniture */
+
+/** Creating the public class table extends from the super class the default attributes but not implementing taxable */
+@SuppressWarnings("serial")
 public class Tables extends Furniture{
 
-	//creating constructor
+	//crating constructor
 	public Tables (String productId, String name, Double price, int quantity) {
 		super(productId, name, price, quantity);
 		
