@@ -1,4 +1,4 @@
-package Chocolate_Products;
+package chocolate_Products;
 
 
 //creating the Furniture class which inheritance of the abstract super class Product and no implements the interface Taxable

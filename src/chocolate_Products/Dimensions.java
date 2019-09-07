@@ -1,4 +1,4 @@
-package Chocolate_Products;
+package chocolate_Products;
 
 
 import java.io.Serializable;

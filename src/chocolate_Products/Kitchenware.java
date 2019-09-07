@@ -1,4 +1,4 @@
-package Chocolate_Products;
+package chocolate_Products;
 
 /**
  * @author Lucas_Vigarinho_HDC_OOD_2989295_Week_6_FILE_HANDLING

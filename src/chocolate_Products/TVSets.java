@@ -1,4 +1,4 @@
-package Chocolate_Products;
+package chocolate_Products;
 
 /** Creating the tv sets class extending from the super class electronic device and implementing from the interface class taxable*/
 @SuppressWarnings("serial")

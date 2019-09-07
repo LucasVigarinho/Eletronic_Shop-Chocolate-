@@ -1,4 +1,4 @@
-package Chocolate_Products;
+package chocolate_Products;
 
 /** creating the MP3Players class extends the attributes from the super class eletronic device */
 @SuppressWarnings("serial")

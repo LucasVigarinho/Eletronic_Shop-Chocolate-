@@ -1,4 +1,4 @@
-package Chocolate_Products;
+package chocolate_Products;
 
 
 /** creating the Dressers class extends the attributes from the super class furniture */

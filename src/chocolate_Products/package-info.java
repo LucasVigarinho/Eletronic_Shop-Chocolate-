@@ -23,4 +23,4 @@
  * 																					  -	  | -- tv additional parameter (displaySize)
  *
  */
-package Chocolate_Products;
+package chocolate_Products;

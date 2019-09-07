@@ -1,4 +1,4 @@
-package Chocolate_Products;
+package chocolate_Products;
 
 
 /** creating the mobile phone class extends the attributes from the super class eletronic devices */

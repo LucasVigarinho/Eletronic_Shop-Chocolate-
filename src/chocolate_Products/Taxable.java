@@ -1,4 +1,4 @@
-package Chocolate_Products;
+package chocolate_Products;
 
 
 /** Creating the interface of the taxable class to be implemented by all the classes which has to be taxable */
