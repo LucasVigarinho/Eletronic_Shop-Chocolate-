@@ -6,6 +6,4 @@ The main idea is to use and test Desing Object Orientation using Java and non-SQ
 
 In this project was created following the structure described in the "package-info.java"
 
-To use the sisystem and test it, is just necessary to follow the menu.
- Eletronic_Shop-Chocolate-
-OOD
+To use the system and test it, is just necessary to follow the menu.
